@@ -60,6 +60,6 @@ Git • GitHub • Docker • Cloudflare • Render • n8n
 
 ## 📫 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN
+- LinkedIn: https://www.linkedin.com/in/naresh-kumar-1172b9346/
 - Portfolio: YOUR_PORTFOLIO
-- Email: YOUR_EMAIL
+- Email: nk6404250@gmail.com
