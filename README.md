@@ -1,65 +1,67 @@
 # Hi, I'm Naresh Kumar 👋
 
-### AI Engineer | AI & Data Science Student | Full-Stack Developer
+### AI & Data Science Student · AI/ML Developer · Full-Stack Builder
 
-I'm a B.Tech Artificial Intelligence & Data Science student passionate about
-building practical AI systems and intelligent applications.
+I build practical intelligent systems across **Generative AI, machine learning, RAG applications, and cybersecurity**. I enjoy turning ideas into working products—from data pipelines and model workflows to APIs and user-facing applications.
 
-## 🚀 About Me
+---
 
-- 🎓 B.Tech Artificial Intelligence & Data Science
-- 🤖 Interested in Generative AI, RAG, AI Agents & Machine Learning
-- 🔐 Interested in AI-driven Cybersecurity
-- 🌱 Currently learning Advanced RAG, LLMs & AI Agents
-- 🛠️ I love building real-world AI projects
-- 👥 Team Leader | Department Secretary | Hackathon Participant
+## About Me
 
-## 🔥 Featured Projects
+- 🎓 B.Tech in Artificial Intelligence & Data Science
+- 🤖 Focus areas: Generative AI, LLM applications, RAG, AI agents, and machine learning
+- 🔐 Exploring AI-powered cybersecurity and threat detection
+- 🧩 Interested in end-to-end system design, backend engineering, and developer tools
+- 👥 Department Secretary; team lead for project and hackathon teams
 
-### 🛡️ AI Shield
-AI-powered security system for detecting:
-- Deepfake images
-- Deepfake videos
-- AI-generated audio
-- Phishing URLs
+## Featured Work
 
-### 🤖 Department RAG Chatbot
-A Retrieval-Augmented Generation system for querying
-department reports, events and documents.
+| Project | What it does | Focus |
+|---|---|---|
+| [AI Shield](https://github.com/nareshkumar-cyber/AI-shield) | Multimodal security concept spanning image, video, audio, and phishing detection | AI · Cybersecurity |
+| [Department AI Assistant](https://github.com/nareshkumar-cyber/RAG-chatbox) | Document ingestion, chunking, embeddings, vector search, grounded Q&A, and report generation | RAG · LLMs · Python |
+| [Phishing Website Detection](https://github.com/nareshkumar-cyber/phishing-website) | Machine-learning based phishing URL / website detection | ML · Security |
+| [Consistency Tracker](https://github.com/nareshkumar-cyber/consistency-tracker) | Habit tracking, streaks, analytics, and authentication | Flask · Supabase |
+| [Port Scanner](https://github.com/nareshkumar-cyber/port-scanner) | Network port-scanning utility | Python · Networking |
+| [Crime Management System](https://github.com/nareshkumar-cyber/crime-management-system) | Database-backed crime management project | DBMS |
 
-### 🧠 Breast Cancer Prediction
-Deep learning based medical image classification using
-CNN architectures.
+## Technical Toolkit
 
-### 📊 Consistency Tracker
-A productivity and habit tracking platform designed to
-help users maintain consistent routines.
+**Languages**  
+Python · JavaScript · TypeScript · SQL
 
-### 🔐 Phishing URL Detection
-Machine learning based system for identifying potentially
-malicious URLs.
+**AI / Machine Learning**  
+PyTorch · TensorFlow · scikit-learn · Hugging Face · LLMs · RAG · Embeddings · Vector Search
 
-## 💻 Tech Stack
+**Backend / Web**  
+FastAPI · Flask · React · Next.js · Node.js · HTML · CSS
 
-### AI / ML
-Python • PyTorch • TensorFlow • Scikit-learn
-• Hugging Face • OpenAI • RAG • LLMs
+**Data / Databases**  
+PostgreSQL · MySQL · MongoDB · Supabase · Qdrant
 
-### Development
-Next.js • React • TypeScript • FastAPI • Django • Flask
+**Developer Tools**  
+Git · GitHub · Docker · n8n · Cloudflare
 
-### Databases
-PostgreSQL • MySQL • MongoDB • Supabase
+## Current Learning
 
-### Tools
-Git • GitHub • Docker • Cloudflare • Render • n8n
+- Designing reliable RAG systems and evaluation workflows
+- Building tool-using AI agents and multimodal applications
+- Applying ML and automation to practical cybersecurity problems
+- Improving software architecture, testing, and deployment practices
 
-## 📊 GitHub Stats
+## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nareshkumar-cyber&show_icons=true&hide_border=true" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nareshkumar-cyber&layout=compact&hide_border=true" height="165" alt="Most used languages" />
+</p>
 
-## 📫 Connect With Me
+## Connect
 
-- LinkedIn: https://www.linkedin.com/in/naresh-kumar-1172b9346/
-- Portfolio: YOUR_PORTFOLIO
-- Email: nk6404250@gmail.com
+- **LinkedIn:** [Naresh Kumar](https://www.linkedin.com/in/naresh-kumar-1172b9346/)
+- **Portfolio:** [View portfolio](https://github.com/nareshkumar-cyber/portfolio)
+- **Email:** nk6404250@gmail.com
+
+---
+
+<p align="center">Build · Learn · Iterate · Ship</p>
